@@ -1,0 +1,25 @@
+_repo: A-History-of-Modern-Europe-1792-1878_6589
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fyffe, Charles Alan
+    birthdate: 1845
+    deathdate: 1892
+    gutenberg_agent_id: '2102'
+    url: http://www.gutenberg.org/2009/agents/2102
+description: v.I, From the outbreak of the revolutionary war in 1792 to the accession
+  of Louis XVIII. in 1814. v.2, From 1814 to 1848 v.3, 1848-1878.
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 1789-1900'
+- GITenberg
+title: A History of Modern Europe, 1792-1878
+url: http://www.gutenberg.org/ebooks/6589
